@@ -1,0 +1,1 @@
+In this dashboard we can see the data analysis of Atliq hospitality. With the help of dashboard we can see the key metrics of atliq how they are performing in their particular cities. This dashboard helps stakeholder to understand the business and according they can make their decision. Hope you like the dashboard.
